@@ -20,6 +20,6 @@ Stats.propTypes = {
   neutral: PropTypes.number,
   bad: PropTypes.number,
   total: PropTypes.number,
-  percent: PropTypes.number,
+  percent: PropTypes.string,
   statTitle: PropTypes.string,
 };
